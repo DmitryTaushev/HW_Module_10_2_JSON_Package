@@ -1,0 +1,12 @@
+{
+    "Author": "Пелевин В.О.",
+    "Name": "Generation <<П>>",
+    "Price": "1000",
+    "Methods": {
+        "get_author": "Пелевин В.О.",
+        "get_name": "Generation <<П>>",
+        "get_price": "1000",
+        "book_inform": "Автор Пелевин В.О., книги Generation <<П>>, цена 1000"
+    },
+    "ClassName": "Book"
+}
